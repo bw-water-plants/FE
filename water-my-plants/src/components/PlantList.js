@@ -1,5 +1,9 @@
 import React from 'react';
+import styled from 'styled-components';
 
+const PlantsWrapper = styled.div`
+
+`
 
 class PlantList extends React.Component {
     constructor(props) {
